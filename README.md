@@ -1,0 +1,1 @@
+This Power BI project offers an insightful analysis of pizza delivery operations, providing key metrics and visualizations to help pizza delivery businesses optimize their operations, improve customer satisfaction, and increase profitability. The dashboard provides comprehensive insights into sales performance, delivery times, customer preferences, and more.
